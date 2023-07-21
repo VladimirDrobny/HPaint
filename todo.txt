@@ -1,0 +1,4 @@
+-undo
+-when zooming in and canvas is on edge of screen, going outside does weird things
+-running outside of .../Paint gives segmentation fault
+-generate image_data only when saving
